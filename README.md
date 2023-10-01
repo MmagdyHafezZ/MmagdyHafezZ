@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello World! 👋 I'm Magdy Hafez</h1>
 <h3 align="center">An Aspiring Software Engineer Specializing in Networking and Cybersecurity</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mmagdyhafezz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -11,7 +11,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=mmagdyhafezz" alt="GitHub Trophies" />
     </a>
 </p>
-
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 ---
 
 ### 🎓 About Me
