@@ -33,9 +33,9 @@ I'm a third-year undergraduate passionate about programming, networking, and cyb
 ### 📭 Contact & 📱 Social
 - **Email:** magdy.hafez9123@gmail.com
 <p align="left">
-<a href="https://twitter.com/magdy hafez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="magdy hafez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/magdy hafez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magdy hafez" height="30" width="40" /></a>
-<a href="https://fb.com/magdy mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="magdy mohamed" height="30" width="40" /></a>
+<a href="[https://twitter.com/magdy hafez](https://twitter.com/magdyha64258447)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="magdy hafez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/magdy-hafez-0b458523a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magdy hafez" height="30" width="40" /></a>
+<a href="[https://fb.com/magdy mohamed](https://www.facebook.com/profile.php?id=100061985640674)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="magdy mohamed" height="30" width="40" /></a>
 <a href="https://instagram.com/magdy0838" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="magdy0838" height="30" width="40" /></a>
 <a href="https://discord.gg/magdy#7281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="magdy#7281" height="30" width="40" /></a>
 
