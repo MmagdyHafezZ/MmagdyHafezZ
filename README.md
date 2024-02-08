@@ -8,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=mmagdyhafezz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/software-engineer-developing-website-6369145"/> 
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"/> 
 
 ---
 
